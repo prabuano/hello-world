@@ -1,3 +1,9 @@
 runs:
   using: 'node16'
   main: 'main.js'
+runs.using:
+  using: 'node16'
+  main: 'main.js'
+runs.main:
+  using: 'node16'
+  main: 'main.js'
